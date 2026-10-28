@@ -5,7 +5,7 @@ export default config({
     storage: {
         // kind: 'local',
         kind: 'github',
-        repo: 'mina998/keystatic-workers-template',
+        repo: 'mina998/astro-keystatic-blog',
     },
     collections: {
         // 文章
